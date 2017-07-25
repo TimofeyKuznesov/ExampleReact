@@ -1,0 +1,24 @@
+{
+  "department": [
+    {
+      "id": 1,
+      "name": "QA Department"
+    },
+    {
+      "id": 2,
+      "name": "Store Department"
+    },
+    {
+      "id": 3,
+      "name": "Dev Department"
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Jon",
+      "lastName": "Swith",
+      "departmentId": "3"
+    }
+  ]
+}
